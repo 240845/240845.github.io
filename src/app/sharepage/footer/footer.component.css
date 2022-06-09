@@ -1,0 +1,30 @@
+/* Pasek */
+.footer{
+  overflow: hidden;
+  padding: 20px 10px;
+  position: sticky;
+  top: 100%;
+  background-color: rgb(10, 10, 106);
+}
+/* Nazwa */
+h1{
+  color: azure;
+  font-size: 22px;
+}
+/* Podlinki strony */
+a{
+  color: #fff;
+  text-decoration: none;
+  padding: 0px 5px;
+  font-size: 16px;
+}
+/* Highligthning */
+a:hover{
+  color: var(--primary-color);
+}
+/* Przyslowie */
+p{
+  font-weight: bold;
+  color: #fff;
+  font-size: 13px;
+}
